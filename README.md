@@ -4,7 +4,8 @@ An Amazon-esque CLI storefront app
 
 ## To Use
 
-run index.js
+npm -i
+node index.js
 
 ## Screenshots
 
